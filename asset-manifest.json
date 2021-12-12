@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5e538cb4.chunk.css",
-    "main.js": "/static/js/main.a8400145.chunk.js",
-    "main.js.map": "/static/js/main.a8400145.chunk.js.map",
+    "main.js": "/static/js/main.78179dda.chunk.js",
+    "main.js.map": "/static/js/main.78179dda.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.13314616.js",
     "runtime-main.js.map": "/static/js/runtime-main.13314616.js.map",
     "static/css/2.02daa001.chunk.css": "/static/css/2.02daa001.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.02daa001.chunk.css.map": "/static/css/2.02daa001.chunk.css.map",
     "static/css/main.5e538cb4.chunk.css.map": "/static/css/main.5e538cb4.chunk.css.map",
     "static/js/2.43b45b88.chunk.js.LICENSE.txt": "/static/js/2.43b45b88.chunk.js.LICENSE.txt",
+    "static/media/BotBorgs.a9359f4d.zip": "/static/media/BotBorgs.a9359f4d.zip",
     "static/media/App.css": "/static/media/SpaceQuest.56e6d989.ttf",
     "static/media/abilitiesBotborg.3a39377c.png": "/static/media/abilitiesBotborg.3a39377c.png",
     "static/media/andrew.474e976b.png": "/static/media/andrew.474e976b.png",
@@ -28,8 +29,9 @@
     "static/media/dagen.b3807753.png": "/static/media/dagen.b3807753.png",
     "static/media/dannyg.0962d933.png": "/static/media/dannyg.0962d933.png",
     "static/media/developers.299d0351.png": "/static/media/developers.299d0351.png",
+    "static/media/download.2d614f99.png": "/static/media/download.2d614f99.png",
+    "static/media/downloadBG.53fbba4d.png": "/static/media/downloadBG.53fbba4d.png",
     "static/media/enter.25a5c7ae.png": "/static/media/enter.25a5c7ae.png",
-    "static/media/enterBorgverse.84be37a2.mp4": "/static/media/enterBorgverse.84be37a2.mp4",
     "static/media/enterGreen.debb2dcf.png": "/static/media/enterGreen.debb2dcf.png",
     "static/media/enterHover.e53b4dad.gif": "/static/media/enterHover.e53b4dad.gif",
     "static/media/factory.ce2b9012.mp4": "/static/media/factory.ce2b9012.mp4",
@@ -46,6 +48,6 @@
     "static/css/2.02daa001.chunk.css",
     "static/js/2.43b45b88.chunk.js",
     "static/css/main.5e538cb4.chunk.css",
-    "static/js/main.a8400145.chunk.js"
+    "static/js/main.78179dda.chunk.js"
   ]
 }
